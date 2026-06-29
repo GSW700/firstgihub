@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d18d98a-3d11-4109-b8c8-666633d4c34f" name="更改" comment="到了第七次提交" />
+    <list default="true" id="5d18d98a-3d11-4109-b8c8-666633d4c34f" name="更改" comment="提交到GitHub" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GSW700/firstgihub",
+    "accountId": "623d1e67-db80-44f6-8de0-1fe291a1c9a9"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -102,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782717548270</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="提交到GitHub">
+      <option name="closed" value="true" />
+      <created>1782718504372</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782718504372</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +137,7 @@
     <MESSAGE value="到了第五次提交" />
     <MESSAGE value="到了第六次提交" />
     <MESSAGE value="到了第七次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="到了第七次提交" />
+    <MESSAGE value="提交到GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交到GitHub" />
   </component>
 </project>
